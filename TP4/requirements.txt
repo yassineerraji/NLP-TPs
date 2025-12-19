@@ -1,0 +1,13 @@
+transformers>=4.20.0
+torch>=1.12.0
+datasets>=2.0.0
+numpy>=1.21.0
+tqdm>=4.64.0
+jupyter>=1.0.0
+
+# Used in the notebook (embeddings + evaluation + API demo)
+scikit-learn>=1.0.0
+sentence-transformers>=2.2.0
+python-dotenv>=1.0.0
+groq>=0.30.0
+

@@ -1,0 +1,19 @@
+sentence-transformers>=2.2.0
+datasets>=2.0.0
+bertopic>=0.15.0
+umap-learn>=0.5.3
+datamapplot>=0.1.0
+jupyter>=1.0.0
+
+# Used in the notebook (clustering, plotting, LLM labeling, wordcloud)
+hdbscan>=0.8.33
+scikit-learn>=1.0.0
+numpy>=1.21.0
+pandas>=1.4.0
+matplotlib>=3.5.0
+transformers>=4.20.0
+torch>=1.12.0
+python-dotenv>=1.0.0
+groq>=0.30.0
+wordcloud>=1.9.0
+
